@@ -57,7 +57,7 @@ export default function HeroSection() {
                 <img
                   src="https://cdn.poehali.dev/projects/edf72b87-32f1-4bef-a6e0-d3f8dccd3aff/bucket/2f2b9594-a802-40a8-ad6c-67426599b8d0.jpg"
                   alt="Полянский Александр"
-                  className="h-full w-full object-cover"
+                  className="h-full w-full object-cover object-top"
                 />
               </div>
             </div>
