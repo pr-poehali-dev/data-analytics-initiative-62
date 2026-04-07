@@ -55,8 +55,8 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="https://cdn.poehali.dev/templates/creative-portfolio-ru/portrait.jpg"
-                  alt="Креативный специалист"
+                  src="https://cdn.poehali.dev/projects/edf72b87-32f1-4bef-a6e0-d3f8dccd3aff/bucket/2f2b9594-a802-40a8-ad6c-67426599b8d0.jpg"
+                  alt="Полянский Александр"
                   className="h-full w-full object-cover"
                 />
               </div>
@@ -70,10 +70,10 @@ export default function HeroSection() {
             >
               <div className="space-y-4">
                 <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                  Судебная строительно-техническая экспертиза
+                  Полянский Александр
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
-                  Независимый эксперт | Проектно-сметная документация
+                  Судебный эксперт | Проектно-сметная документация
                 </p>
                 <p className="max-w-lg text-base text-white/60 leading-relaxed pt-2">
                   Профессиональная оценка объектов недвижимости, стоимостная экспертиза и разработка проектно-сметной документации для судебных разбирательств и строительных проектов.
