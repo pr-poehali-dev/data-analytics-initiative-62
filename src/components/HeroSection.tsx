@@ -86,7 +86,10 @@ export default function HeroSection() {
                     Стоимостная оценка
                   </div>
                   <div className="rounded-sm border border-white/20 px-4 py-2 text-sm text-white/70">
-                    Проектно-сметная документация
+                    Строительные проекты
+                  </div>
+                  <div className="rounded-sm border border-white/20 px-4 py-2 text-sm text-white/70">
+                    Дизайн помещений
                   </div>
                 </div>
                 <div className="flex gap-6 pt-4">
